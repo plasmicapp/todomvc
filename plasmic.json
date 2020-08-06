@@ -1,0 +1,22 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox"
+  },
+  "style": {
+    "scheme": "css",
+    "defaultStyleCssFilePath": ""
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "./src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [],
+  "globalVariants": {
+    "variantGroups": []
+  },
+  "cliVersion": "0.1.50"
+}
