@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#root {
+  /* relies on align-items:stretch */
+  min-height: 100vh;
+  display: flex;
+}
+
+#root > * {
+  /* Plasmic root element probably has height:100%, so clear that */
+  height: auto;
+}
