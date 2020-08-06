@@ -1,0 +1,90 @@
+.Header__headerContainer__eje8s {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  color: #535353;
+  text-align: left;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+  user-select: text;
+  text-overflow: clip;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  box-shadow: inset 0px -2px 1px 0px rgba(0, 0, 0, 0.03);
+  position: relative;
+}
+.Header__headerContainer--empty__eje8sFQ-je {
+  width: 100%;
+}
+.Header__headerContainer--allChecked__eje8s1Fmf_ {
+}
+.Header__box__yEln9 {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 45px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+.Header__box--empty__yEln9FQ-je {
+}
+.Header__img__T0qoG {
+  display: flex;
+  width: 30px;
+  height: 30px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  align-self: auto;
+  opacity: 0.1;
+}
+.Header__img--baseDark__T0qoGFHEdW_6DHL0 {
+}
+.Header__img--empty__T0qoGFQ-je {
+}
+.Header__img--allChecked__T0qoG1Fmf_ {
+  opacity: 0.5;
+}
+.Header__textbox__qDOkE {
+  display: flex;
+  width: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100%;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  font-size: 24px;
+  background-color: rgba(255, 255, 255, 0);
+}
+.Header__textbox--baseDark__qDOkEFHEdW_6DHL0 {
+  color: rgb(234, 234, 234) /* plasmic-token: -3hI30lf0Qpdt4 */;
+}
+.Header__textbox--empty__qDOkEFQ-je {
+}
+.Header__textbox--allChecked__qDOkE1Fmf_ {
+}
+.Header__textbox__qDOkE::placeholder {
+  font-style: italic;
+  color: rgb(230, 230, 230) /* plasmic-token: nWv6QPNnw_z5aO */;
+}
+.Header__textbox--baseDark__qDOkEFHEdW_6DHL0::placeholder {
+  color: rgb(79, 79, 79) /* plasmic-token: CRIxdgTgeEUbj0 */;
+}
+.Header__textbox--allChecked__qDOkE1Fmf_::placeholder {
+  font-style: italic;
+  color: rgb(230, 230, 230) /* plasmic-token: nWv6QPNnw_z5aO */;
+}

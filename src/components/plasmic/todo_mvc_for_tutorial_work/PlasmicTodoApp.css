@@ -1,0 +1,171 @@
+.TodoApp__root__9S0VO {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  color: #535353;
+  text-align: left;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+  user-select: text;
+  text-overflow: clip;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: rgb(245, 245, 245) /* plasmic-token: O9rMd_GZLG_9BG */;
+}
+.TodoApp__root--baseDark__9S0VOs7HIs_6DHL0 {
+  background-color: rgb(0, 0, 0) /* plasmic-token: pwexgu9WfIvEvN */;
+}
+.TodoApp__root--empty__9S0VOPBo-R {
+}
+.TodoApp__appTitle__sRwhr {
+  position: relative;
+  width: auto;
+  height: auto;
+  align-self: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  font-size: 100px;
+  color: rgba(175, 47, 47, 0.15) /* plasmic-token: cqelNVxF385989 */;
+}
+.TodoApp__appTitle--baseDark__sRwhrs7HIs_6DHL0 {
+  color: rgb(113, 101, 101) /* plasmic-token: AOXNjC9UFpcxgF */;
+}
+.TodoApp__box__MFqfg {
+  box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: stretch;
+  justify-content: flex-start;
+  align-self: auto;
+  width: 550px;
+  height: auto;
+}
+.TodoApp__box--baseDark__MFqfgs7HIs_6DHL0 {
+  box-shadow: 0px 25px 50px 0px rgba(255, 255, 255, 0.3);
+}
+.TodoApp__appBody__rdG0a {
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: space-evenly;
+  background-color: #ffffff /* plasmic-token: 8WFynxWz_yyEoE */;
+  width: 550px;
+  height: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  position: relative;
+  z-index: 1;
+}
+.TodoApp__appBody--baseDark__rdG0as7HIs_6DHL0 {
+  box-shadow: 0px 0px 2px 0px rgba(255, 255, 255, 0.5);
+  background-color: rgb(34, 34, 34) /* plasmic-token: gDm6fuLMcHxidK */;
+}
+.TodoApp__header__aoS9B.__wab_instance {
+  position: relative;
+  width: auto;
+  align-self: stretch;
+  height: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+}
+.TodoApp__header--baseDark__aoS9Bs7HIs_6DHL0.__wab_instance {
+}
+.TodoApp__header--empty__aoS9BPBo-R.__wab_instance {
+  width: auto;
+  align-self: stretch;
+}
+.TodoApp__tasksContainer__Wbht5 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.TodoApp__tasksContainer--empty__Wbht5PBo-R {
+}
+.TodoApp__task__pe_z9.__wab_instance {
+  align-self: stretch;
+}
+.TodoApp__task--baseDark__pe_z9s7HIs_6DHL0.__wab_instance {
+}
+.TodoApp__task--empty__pe_z9PBo-R.__wab_instance {
+}
+.TodoApp__task__jX3_2.__wab_instance {
+  align-self: stretch;
+}
+.TodoApp__task--baseDark__jX3_2s7HIs_6DHL0.__wab_instance {
+}
+.TodoApp__task__rO4au.__wab_instance {
+  align-self: stretch;
+}
+.TodoApp__task__pxp7d.__wab_instance {
+  align-self: stretch;
+}
+.TodoApp__footer__VmtC2.__wab_instance {
+  position: relative;
+  width: auto;
+  align-self: stretch;
+  height: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+}
+.TodoApp__footer--empty__VmtC2PBo-R.__wab_instance {
+}
+.TodoApp__fakeStack__C7jdQ {
+  display: block;
+  position: relative;
+  background-color: rgba(68, 192, 255, 0);
+  width: 100%;
+  height: auto;
+  align-self: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  z-index: -1px;
+  margin-top: -4px;
+}
+.TodoApp__fakeStack--empty__C7jdQPBo-R {
+}
+.TodoApp__box__zsg94 {
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.2);
+  display: block;
+  position: absolute;
+  left: 10px;
+  top: 6px;
+  width: auto;
+  height: 10px;
+  background-color: #ffffff /* plasmic-token: 8WFynxWz_yyEoE */;
+  right: 10px;
+}
+.TodoApp__box--baseDark__zsg94s7HIs_6DHL0 {
+  box-shadow: 0px 0px 2px 0px rgba(255, 255, 255, 0.5);
+  background-color: rgb(34, 34, 34) /* plasmic-token: gDm6fuLMcHxidK */;
+}
+.TodoApp__box__Yygix {
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.2);
+  display: block;
+  position: absolute;
+  left: 5px;
+  top: 0px;
+  width: auto;
+  right: 5px;
+  height: 10px;
+  background-color: #ffffff /* plasmic-token: 8WFynxWz_yyEoE */;
+  z-index: -1px;
+}
+.TodoApp__box--baseDark__Yygixs7HIs_6DHL0 {
+  box-shadow: 0px 0px 2px 0px rgba(255, 255, 255, 0.5);
+  background-color: rgb(34, 34, 34) /* plasmic-token: gDm6fuLMcHxidK */;
+}

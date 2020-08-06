@@ -6,7 +6,7 @@
   },
   "style": {
     "scheme": "css",
-    "defaultStyleCssFilePath": ""
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
   },
   "tokens": {
     "scheme": "theo",
@@ -14,9 +14,87 @@
   },
   "srcDir": "./src/components",
   "defaultPlasmicDir": "./plasmic",
-  "projects": [],
+  "projects": [
+    {
+      "projectId": "4p2NHB7HnAYV45yx1ZgrVt",
+      "projectName": "Todo MVC (for tutorial work)",
+      "version": "latest",
+      "cssFilePath": "plasmic/todo_mvc_for_tutorial_work/plasmic_todo_mvc_for_tutorial_work.css",
+      "components": [
+        {
+          "id": "ELmYfayx4soyC4",
+          "name": "TodoApp",
+          "type": "managed",
+          "projectId": "4p2NHB7HnAYV45yx1ZgrVt",
+          "renderModuleFilePath": "plasmic/todo_mvc_for_tutorial_work/PlasmicTodoApp.tsx",
+          "importSpec": {
+            "modulePath": "TodoApp.tsx"
+          },
+          "cssFilePath": "plasmic/todo_mvc_for_tutorial_work/PlasmicTodoApp.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "kC6cXBS27C1bHf",
+          "name": "Header",
+          "type": "managed",
+          "projectId": "4p2NHB7HnAYV45yx1ZgrVt",
+          "renderModuleFilePath": "plasmic/todo_mvc_for_tutorial_work/PlasmicHeader.tsx",
+          "importSpec": {
+            "modulePath": "Header.tsx"
+          },
+          "cssFilePath": "plasmic/todo_mvc_for_tutorial_work/PlasmicHeader.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "yoBg6XMOMn8SaW",
+          "name": "Task",
+          "type": "managed",
+          "projectId": "4p2NHB7HnAYV45yx1ZgrVt",
+          "renderModuleFilePath": "plasmic/todo_mvc_for_tutorial_work/PlasmicTask.tsx",
+          "importSpec": {
+            "modulePath": "Task.tsx"
+          },
+          "cssFilePath": "plasmic/todo_mvc_for_tutorial_work/PlasmicTask.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "zjrZLDRsbEfRQV",
+          "name": "Footer",
+          "type": "managed",
+          "projectId": "4p2NHB7HnAYV45yx1ZgrVt",
+          "renderModuleFilePath": "plasmic/todo_mvc_for_tutorial_work/PlasmicFooter.tsx",
+          "importSpec": {
+            "modulePath": "Footer.tsx"
+          },
+          "cssFilePath": "plasmic/todo_mvc_for_tutorial_work/PlasmicFooter.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "GYBhl6_6fdZANy",
+          "name": "ToggleButton",
+          "type": "managed",
+          "projectId": "4p2NHB7HnAYV45yx1ZgrVt",
+          "renderModuleFilePath": "plasmic/todo_mvc_for_tutorial_work/PlasmicToggleButton.tsx",
+          "importSpec": {
+            "modulePath": "ToggleButton.tsx"
+          },
+          "cssFilePath": "plasmic/todo_mvc_for_tutorial_work/PlasmicToggleButton.css",
+          "scheme": "blackbox"
+        }
+      ],
+      "icons": [],
+      "dependencies": []
+    }
+  ],
   "globalVariants": {
-    "variantGroups": []
+    "variantGroups": [
+      {
+        "id": "qBJztiWboOaDz9",
+        "name": "Theme",
+        "projectId": "4p2NHB7HnAYV45yx1ZgrVt",
+        "contextFilePath": "plasmic/PlasmicGlobalVariant__Theme.tsx"
+      }
+    ]
   },
   "cliVersion": "0.1.50"
 }
